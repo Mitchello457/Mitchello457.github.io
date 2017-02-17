@@ -3,7 +3,7 @@ layout: post
 title: Thinking in an Alternative Dimension
 subtitle: The Enigma of Puzzle Games
 bigimg: /img/Elohim_Door.png
-image: /img/Elohim_Door.png
+image: /img/Elohim_DoorSquare.png
 tags:
 ---
 TL;DR: Puzzle games create experiences that are different from any other type of game. Examples include Portal, Antimatter, and The Talos Principle which represent different parts of the puzzle game experience.
@@ -18,4 +18,4 @@ The world of puzzle games isn’t limited to stages that are completed one after
 
 Puzzles games span many different genres but all accomplish the same goal. They force the user to exhaust all possible resources, think outside of the box, and be engulfed in the incredible background of the story. People think differently to complete these games and even to make them. There is always a creator behind each puzzle so no puzzle is without an answer. It just takes self-dedication and perseverance to make it though. Everyone needs to learn these skills, so why not learn them while enjoying a few puzzles?
 
-<a title="The Talos Principle" href="https://flickr.com/photos/wakeupmrfreeman/16214157737">The Talos Principle</a> flickr photo by <a href="https://flickr.com/people/wakeupmrfreeman">- François -</a> shared under a <a href="https://creativecommons.org/licenses/by-nc/2.0/">Creative Commons (BY-NC) license</a>
+<small> <a title="The Talos Principle" href="https://flickr.com/photos/wakeupmrfreeman/16214157737">The Talos Principle</a> flickr photo by <a href="https://flickr.com/people/wakeupmrfreeman">- François -</a> shared under a <a href="https://creativecommons.org/licenses/by-nc/2.0/">Creative Commons (BY-NC) license</a> </small>
