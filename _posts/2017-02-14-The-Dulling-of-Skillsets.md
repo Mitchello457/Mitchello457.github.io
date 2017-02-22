@@ -1,12 +1,12 @@
 ---
 layout: post
 title: The Dulling of Skillsets
-subtitle: How Google Prevents Development
+subtitle: How Google Degrades Development
 bigimg: /img/Bonfire.png
 image: /img/BonfireSquare.png
 tags:
 ---
-TL;DR:
+TL;DR: The constant stream of information available at everyone's fingertips has its downsides. It is too easy to receive help for a problem which builds a reliance on this type of assistance.
 
 The internet is an ocean of information that is available at most people's fingertips. Most people would agree that this is a good thing but it does come with its own set of consequences. One of these consequences is being able to get help too easily in certain situations. Society does not have to figure things out on their own since it is so simple to look up what to do next. This problem is seen in many different positions such as education, video games, and travel.
 
