@@ -7,8 +7,8 @@ title: Presentations
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**FS 102 Spring 2017**        
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*March 8, 2017*
 
-<a href="https://rawgit.com/Mitchello457/fs102Spring2017-presentation3-Mitchello457/master/Ending_Piracy_Completely.html"><img scr="/img/EndingPiracyCompletely.png" alt=""></a>
-[Ending Piracy Completely?](https://rawgit.com/Mitchello457/fs102Spring2017-presentation3-Mitchello457/master/Ending_Piracy_Completely.html)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Second class presentation about my stance on Internet Piracy
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**FS 102 Spring 2017**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*April 10, 2017*
+<a href="https://rawgit.com/Mitchello457/fs102Spring2017-presentation3-Mitchello457/master/Ending_Piracy_Completely.html"><img src="/img/EndingPiracyCompletely.png" alt=""></a>
+[Ending Piracy Completely?](https://rawgit.com/Mitchello457/fs102Spring2017-presentation3-Mitchello457/master/Ending_Piracy_Completely.html)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Second class presentation about my stance on Internet Piracy  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**FS 102 Spring 2017**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*April 10, 2017*  
