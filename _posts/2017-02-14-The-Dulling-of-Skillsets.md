@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Dulling of Skillsets
-subtitle: How Google Degrades Development
+subtitle: Google Degrades a Person's Learning Ability
 bigimg: /img/Bonfire.png
 image: /img/BonfireSquare.png
 tags:
